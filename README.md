@@ -1,53 +1,54 @@
-# 👋 Hi, I'm Aanchal Kalambe
-
-<p align="left">
-  <a href="https://linkedin.com/in/your-profile-link" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Aanchal Kalambe" height="30" width="40" /></a>
-  <a href="mailto:aanchalkalambe.23@stvincentngp.edu.in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="aanchalkalambe" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3670A0,100:ffdd54&height=200&section=header&text=Aanchal%20Kalambe&fontSize=70&animation=fadeIn&fontAlignY=38" />
 </p>
 
-### 🚀 About Me
-I am a **B.Tech Artificial Intelligence student** at St. Vincent Pallotti College of Engineering & Technology (Class of 2027). I specialize in building intelligent solutions, from health-tech guides like **MedAssist** to automated reporting systems.
-
-- 🔭 **Current Project:** Developing an **Adaptive AI Documentation Platform** for automated report workflows.
-- 🧪 **Research Interests:** Generative AI, Large Language Models (LLMs), and Machine Learning.
-- 🏆 **Achievements:** Participant in the **Dataventics Gen AI Hackathon '25**.
-- ⚡ **Fun Fact:** I enjoy exploring the intersection of Java backend logic and AI-driven automation.
-
----
-
-### 💻 Tech Stack
-
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=flat-square&logo=mysql&logoColor=white) |
-| **AI/ML** | ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) |
-| **Web Dev** | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=F7DF1E) |
-
----
-
-### 📊 GitHub Analytics
-
-<table border="0">
-  <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=aanchalkalambe&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="General Stats" />
-    </td>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aanchalkalambe&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://nirzak-streak-stats.vercel.app/?user=aanchalkalambe&theme=dark&hide_border=false" alt="GitHub Streak" width="100%" />
-    </td>
-  </tr>
-</table>
-
----
-
-### 📈 Profile Activity
 <p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=aanchalkalambe&icon=0&color=0" alt="Visitor Count" />
-  </a>
+  <b>B.Tech AI Student @ SVPCET • Aspiring Machine Learning Engineer</b>
+</p>
+
+<p align="center">
+  <a href="mailto:aanchalkalambe.23@stvincentngp.edu.in"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+---
+
+### 💫 About Me
+I am a passionate **Artificial Intelligence student** (Class of 2027) focused on building scalable, intelligent solutions. My work bridges the gap between core backend logic (Java) and modern AI automation.
+
+- 🔭 **Working on:** [Adaptive AI Documentation Platform](https://github.com/aanchalkalambe)
+- 🌱 **Currently Learning:** Advanced LLM Fine-tuning & Cloud Architecture
+- 🏆 **Hackathons:** Dataventics Gen AI Hackathon '25 Participant
+- 🎨 **Interests:** Luxury Automotive Tech & Intelligent Systems
+
+---
+
+### 🛠️ Core Skills
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,mysql,bootstrap,js,pycharm,vscode,github,git" />
+</p>
+
+---
+
+### 📊 Performance Metrics
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aanchalkalambe&theme=dark&show_icons=true&hide_border=true&bg_color=0D1117&title_color=ffdd54&icon_color=3670A0&text_color=c9d1d9" />
+  <img width="41.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aanchalkalambe&theme=dark&hide_border=true&layout=compact&bg_color=0D1117&title_color=ffdd54&text_color=c9d1d9" />
+</p>
+
+<p align="center">
+  <img width="90%" src="https://nirzak-streak-stats.vercel.app/?user=aanchalkalambe&theme=dark&hide_border=true&background=0D1117&ring=3670A0&fire=ffdd54&stroke=c9d1d9" />
+</p>
+
+---
+
+### 🌐 Connect with Me
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=aanchalkalambe&icon=5&color=0" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%" />
 </p>
