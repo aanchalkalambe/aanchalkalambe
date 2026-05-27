@@ -111,7 +111,7 @@ Hi, I'm Aanchal — an aspiring AI Engineer passionate about designing intellige
 <img src="https://user-images.githubusercontent.com/74038190/212750248-f6ef2a90-2d2f-4c96-8f3f-8c64d8a5c6f5.gif" width="100%">
 
 
-# ✍️ Random Dev Quote
+# ✍️ Quote
 
 <p align="center">
 
